@@ -5,6 +5,7 @@ export default function Home() {
     <main>
       <h1>Welcome to Our Application</h1>
       <p>This is the home page of our application.</p>
+      <Link href="/about">Go to About Page</Link>
     </main>
   );
 }
